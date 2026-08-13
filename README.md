@@ -2,9 +2,14 @@
 
 A restaurant landing page with custom typography, built with HTML and CSS. My most recent project.
 
-**Live site:** _[adaugă link Netlify sau GitHub Pages]_
+**Live site:** https://biancasud.github.io/Project-10-South-House-Restaurant-page/  / 
+https://south-house-restaurant.netlify.app/
 
-![South House](screenshot.png)
+![South House]
+<img width="1885" height="938" alt="image" src="https://github.com/user-attachments/assets/ec53e6b9-b3e3-425a-b083-64330e3eee53" />
+<img width="365" height="748" alt="image" src="https://github.com/user-attachments/assets/2f1c0ce0-6d8a-4a6a-9786-c48ad7accb6f" />
+
+
 
 ## About
 
